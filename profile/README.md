@@ -13,18 +13,10 @@ Ingen teori. Kun eksempler der virker, eksempler der fejler, og øvelser du kan 
 **Nybegynder?** Start med [Lektion_1](./Lektion_1/) - det tager 30 minutter og gør dig bedre end 90% af alle AI-brugere.
 
 **Kender du basics?** Gå direkte til dit værktøj:
-- [ChatGPT](./Lektion_2/) (gratis + Plus)
-- [Microsoft Copilot](./Lektion_3/) (gratis + 365)
-- [Claude](./Lektion_4/) (gratis + Pro)
-- [Gemini](./Lektion_5/) (gratis + Workspace)
-
-**Leder du efter noget specifikt?** Find skabeloner til din rolle:
-- [Sælger](./skabeloner-pr-rolle/saelger/)
-- [Bogholder](./skabeloner-pr-rolle/bogholder/)
-- [Kundeservice](./skabeloner-pr-rolle/kundeservice/)
-- [Marketing](./skabeloner-pr-rolle/marketing/)
-- [IT/Admin](./skabeloner-pr-rolle/it-admin/)
-- [Ledelse](./skabeloner-pr-rolle/ledelse/)
+- ChatGPT (gratis + Plus)
+- Microsoft Copilot (gratis + 365)
+- Claude (gratis + Pro)
+- Gemini (gratis + Workspace)
 
 ---
 
